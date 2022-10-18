@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/profil/mesbahi1u/Espace-Etudiant/L2/programmation_avancee/main.c
+SDL2/SDL.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
